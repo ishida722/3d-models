@@ -38,6 +38,7 @@ OCP CAD Viewer が起動していれば、同時にビューアへプレビュ�
 | --- | --- |
 | [models/sample_box.py](models/sample_box.py) | 角を丸めた小物入れ (60×40×25 mm, 肉厚 2 mm) |
 | [models/b6_card_holder.py](models/b6_card_holder.py) | B6 情報カード用の下敷き兼ケース (191×137×7 mm, 深さ 5 mm のくぼみ) |
+| [models/pill_case.py](models/pill_case.py) | ピルシート 2 錠用の片側開口ケース (内寸 33×18×6 mm + すき間, 肉厚 1.2 mm, 開口部に指かけ切り欠き) |
 
 ## その他
 

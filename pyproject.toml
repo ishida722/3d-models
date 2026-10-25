@@ -1,0 +1,12 @@
+[project]
+name = "3d-models"
+version = "0.1.0"
+description = "build123d で作る 3D プリンタ用モデル"
+requires-python = ">=3.12,<3.15"  # cadquery-ocp のホイールが cp312〜cp314 のみ
+dependencies = [
+    "build123d",
+    "ocp_vscode",
+]
+
+[tool.uv]
+package = false

@@ -37,6 +37,7 @@ OCP CAD Viewer が起動していれば、同時にビューアへプレビュ�
 | ファイル | 内容 |
 | --- | --- |
 | [models/sample_box.py](models/sample_box.py) | 角を丸めた小物入れ (60×40×25 mm, 肉厚 2 mm) |
+| [models/b6_card_holder.py](models/b6_card_holder.py) | B6 情報カード用の下敷き兼ケース (191×137×7 mm, 深さ 5 mm のくぼみ) |
 
 ## その他
 
